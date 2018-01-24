@@ -1,5 +1,5 @@
 <?php
-//test update!!!!!
+
     require ('phpQuery.php');
 
     $host = '127.0.0.1';
