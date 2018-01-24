@@ -1,7 +1,7 @@
 <?php
 
     require ('phpQuery.php');
-
+м
     $host = '127.0.0.1';
     $db   = 'elco';
     $user = 'root';
